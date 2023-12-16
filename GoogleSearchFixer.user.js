@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         GoogleSearchFixer
 // @namespace    https://wmeluna.com/
-// @version      0.1
+// @version      0.2
 // @description  Fix Firefox having a shitier search
 // @author       WmeLuna
-// @match        https://*.google.*/*
+// @match        https://*.google.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=google.com
 // @updateURL    https://github.com/WmeLuna/MobileUserscripts/raw/main/GoogleSearchFixer.user.js
 // @downloadURL  https://github.com/WmeLuna/MobileUserscripts/raw/main/GoogleSearchFixer.user.js
